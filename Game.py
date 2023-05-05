@@ -1,4 +1,3 @@
-
 class Game:
     @staticmethod
     def toggle(board, i, j):
